@@ -45,7 +45,7 @@
   - [Libraries and Utility](#libraries-and-utility)
   - [Examples](#examples)
   - [Documentation](#documentation)
-
+- [Community](#community)
 ---
 
 ## Applications
@@ -251,5 +251,13 @@
 - [Valadoc](https://valadoc.org/) - Documentation about Vala.
 - [GJS Documentation](http://devdocs.baznga.org/) - Documentation for the JavaScript GTK bindings.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
+
+## Community  
+- [Reddit](https://www.reddit.com/r/gnome/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/gnome)  
+- [`@gnome` on Twitter](https://twitter.com/gnome)
+- [GNOME on Google+](https://plus.google.com/+gnome)
+- [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
+- [`#gnome` on Freenode](irc://irc.gnome.org/gnome)
 
 [GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
